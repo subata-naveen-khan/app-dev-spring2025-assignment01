@@ -130,7 +130,6 @@ class MainApp extends StatelessWidget {
                             "Networking Lounge",
                             "Will the event be starting on time?",
                             "25 June 2023, 12:00 AM"),
-                        
                       ],
                     ),
                     Cards.statsCard(),
