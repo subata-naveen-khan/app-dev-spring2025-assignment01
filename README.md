@@ -19,11 +19,11 @@ for the profile picture and events.
 - Seamless UI updates – 1 point 
 - Extra points for using the same font and making the arrow in the comment tile!
 ### My Design
-[App Demo](App_Demo.mp4)
+#### UI
+![my implementation UI](mine.png)
+#### [App Demo](App_Demo.mp4)
 #### Marks: 9/10
 #### Comments
 - color of appbar
 - aspect ratio of image in event tile
 - arrow is an image
-#### UI
-![my implementation UI](mine.png)
